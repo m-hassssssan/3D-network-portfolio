@@ -1,0 +1,3045 @@
+{
+  "modularity_q": 0.0809,
+  "num_communities": 8,
+  "communities": {
+    "0": {
+      "id": 0,
+      "name": "Foundations & Graph Theory",
+      "size": 47,
+      "total_citations": 140492,
+      "mean_citations": 2989.0,
+      "top_keywords": [
+        [
+          "network",
+          36
+        ],
+        [
+          "networks",
+          24
+        ],
+        [
+          "graph",
+          20
+        ],
+        [
+          "functional",
+          13
+        ],
+        [
+          "connectivity",
+          13
+        ],
+        [
+          "model",
+          12
+        ],
+        [
+          "neural",
+          12
+        ],
+        [
+          "mode",
+          11
+        ],
+        [
+          "connectome",
+          10
+        ],
+        [
+          "theory",
+          9
+        ]
+      ],
+      "top_authors": [
+        [
+          "O Sporns",
+          6
+        ],
+        [
+          "M Rubinov",
+          5
+        ],
+        [
+          "DJ Watts",
+          2
+        ],
+        [
+          "CJ Stam",
+          2
+        ],
+        [
+          "JC Reijneveld",
+          2
+        ]
+      ],
+      "year_range": [
+        1994,
+        2022
+      ],
+      "mean_year": 2010.1,
+      "paper_ids": [
+        "p000",
+        "p001",
+        "p002",
+        "p003",
+        "p004",
+        "p005",
+        "p006",
+        "p007",
+        "p008",
+        "p009",
+        "p010",
+        "p011",
+        "p012",
+        "p013",
+        "p014",
+        "p015",
+        "p016",
+        "p017",
+        "p018",
+        "p019",
+        "p020",
+        "p021",
+        "p022",
+        "p023",
+        "p024",
+        "p099",
+        "p100",
+        "p101",
+        "p102",
+        "p103",
+        "p104",
+        "p105",
+        "p106",
+        "p107",
+        "p108",
+        "p109",
+        "p110",
+        "p111",
+        "p112",
+        "p113",
+        "p114",
+        "p115",
+        "p116",
+        "p117",
+        "p118",
+        "p119",
+        "p120"
+      ],
+      "internal_edge_weight": 883.3,
+      "external_edge_weight": 4381.1
+    },
+    "1": {
+      "id": 1,
+      "name": "Resting-State fMRI & Default Mode",
+      "size": 24,
+      "total_citations": 41976,
+      "mean_citations": 1749.0,
+      "top_keywords": [
+        [
+          "connectivity",
+          16
+        ],
+        [
+          "functional",
+          15
+        ],
+        [
+          "state",
+          14
+        ],
+        [
+          "fmri",
+          13
+        ],
+        [
+          "network",
+          12
+        ],
+        [
+          "resting",
+          10
+        ],
+        [
+          "default",
+          8
+        ],
+        [
+          "mode",
+          8
+        ],
+        [
+          "networks",
+          5
+        ],
+        [
+          "control",
+          3
+        ]
+      ],
+      "top_authors": [
+        [
+          "ME Raichle",
+          4
+        ],
+        [
+          "BB Biswal",
+          2
+        ],
+        [
+          "AM MacLeod",
+          1
+        ],
+        [
+          "MP Van Den Heuvel",
+          1
+        ],
+        [
+          "HEH Pol",
+          1
+        ]
+      ],
+      "year_range": [
+        1997,
+        2022
+      ],
+      "mean_year": 2010.5,
+      "paper_ids": [
+        "p025",
+        "p027",
+        "p028",
+        "p029",
+        "p030",
+        "p031",
+        "p032",
+        "p033",
+        "p034",
+        "p035",
+        "p036",
+        "p037",
+        "p038",
+        "p039",
+        "p040",
+        "p041",
+        "p042",
+        "p043",
+        "p044",
+        "p045",
+        "p046",
+        "p047",
+        "p048",
+        "p049"
+      ],
+      "internal_edge_weight": 273.0,
+      "external_edge_weight": 2779.7
+    },
+    "2": {
+      "id": 2,
+      "name": "Structural Connectivity & dMRI",
+      "size": 23,
+      "total_citations": 14768,
+      "mean_citations": 642.0,
+      "top_keywords": [
+        [
+          "diffusion",
+          16
+        ],
+        [
+          "structural",
+          13
+        ],
+        [
+          "connectivity",
+          11
+        ],
+        [
+          "connectome",
+          9
+        ],
+        [
+          "network",
+          7
+        ],
+        [
+          "tractography",
+          7
+        ],
+        [
+          "graph",
+          7
+        ],
+        [
+          "networks",
+          6
+        ],
+        [
+          "white",
+          6
+        ],
+        [
+          "matter",
+          6
+        ]
+      ],
+      "top_authors": [
+        [
+          "P Hagmann",
+          7
+        ],
+        [
+          "L Cammoun",
+          2
+        ],
+        [
+          "Y Assaf",
+          1
+        ],
+        [
+          "O Pasternak",
+          1
+        ],
+        [
+          "L Jonasson",
+          1
+        ]
+      ],
+      "year_range": [
+        2003,
+        2021
+      ],
+      "mean_year": 2013.0,
+      "paper_ids": [
+        "p050",
+        "p052",
+        "p053",
+        "p054",
+        "p055",
+        "p057",
+        "p058",
+        "p059",
+        "p060",
+        "p061",
+        "p062",
+        "p063",
+        "p064",
+        "p065",
+        "p066",
+        "p067",
+        "p068",
+        "p069",
+        "p070",
+        "p071",
+        "p072",
+        "p073",
+        "p074"
+      ],
+      "internal_edge_weight": 207.6,
+      "external_edge_weight": 2238.8
+    },
+    "3": {
+      "id": 3,
+      "name": "Dynamic FC & Brain States",
+      "size": 25,
+      "total_citations": 11334,
+      "mean_citations": 453.0,
+      "top_keywords": [
+        [
+          "connectivity",
+          23
+        ],
+        [
+          "dynamic",
+          21
+        ],
+        [
+          "functional",
+          18
+        ],
+        [
+          "state",
+          17
+        ],
+        [
+          "network",
+          14
+        ],
+        [
+          "networks",
+          11
+        ],
+        [
+          "fmri",
+          9
+        ],
+        [
+          "dynamics",
+          7
+        ],
+        [
+          "varying",
+          5
+        ],
+        [
+          "resting",
+          5
+        ]
+      ],
+      "top_authors": [
+        [
+          "E Damaraju",
+          2
+        ],
+        [
+          "VD Calhoun",
+          2
+        ],
+        [
+          "A Abrol",
+          2
+        ],
+        [
+          "HJ Park",
+          1
+        ],
+        [
+          "K Friston",
+          1
+        ]
+      ],
+      "year_range": [
+        2004,
+        2021
+      ],
+      "mean_year": 2016.4,
+      "paper_ids": [
+        "p051",
+        "p075",
+        "p076",
+        "p077",
+        "p078",
+        "p079",
+        "p080",
+        "p081",
+        "p082",
+        "p083",
+        "p084",
+        "p085",
+        "p086",
+        "p087",
+        "p088",
+        "p089",
+        "p090",
+        "p091",
+        "p092",
+        "p093",
+        "p094",
+        "p095",
+        "p096",
+        "p097",
+        "p098"
+      ],
+      "internal_edge_weight": 406.2,
+      "external_edge_weight": 3447.0
+    },
+    "4": {
+      "id": 4,
+      "name": "Clinical Applications",
+      "size": 25,
+      "total_citations": 19789,
+      "mean_citations": 792.0,
+      "top_keywords": [
+        [
+          "network",
+          18
+        ],
+        [
+          "connectivity",
+          13
+        ],
+        [
+          "disease",
+          10
+        ],
+        [
+          "functional",
+          10
+        ],
+        [
+          "connectome",
+          10
+        ],
+        [
+          "disorder",
+          10
+        ],
+        [
+          "mode",
+          8
+        ],
+        [
+          "default",
+          7
+        ],
+        [
+          "alzheimer",
+          7
+        ],
+        [
+          "schizophrenia",
+          6
+        ]
+      ],
+      "top_authors": [
+        [
+          "A Fornito",
+          2
+        ],
+        [
+          "F Agosta",
+          2
+        ],
+        [
+          "MP Van Den Heuvel",
+          2
+        ],
+        [
+          "O Sporns",
+          2
+        ],
+        [
+          "ME Raichle",
+          1
+        ]
+      ],
+      "year_range": [
+        2004,
+        2021
+      ],
+      "mean_year": 2014.7,
+      "paper_ids": [
+        "p170",
+        "p171",
+        "p172",
+        "p173",
+        "p174",
+        "p175",
+        "p176",
+        "p177",
+        "p178",
+        "p179",
+        "p180",
+        "p181",
+        "p182",
+        "p183",
+        "p184",
+        "p185",
+        "p186",
+        "p187",
+        "p188",
+        "p189",
+        "p190",
+        "p191",
+        "p192",
+        "p193",
+        "p194"
+      ],
+      "internal_edge_weight": 241.3,
+      "external_edge_weight": 3033.1
+    },
+    "5": {
+      "id": 5,
+      "name": "Hubs, Rich-Club & Gradients",
+      "size": 25,
+      "total_citations": 23189,
+      "mean_citations": 928.0,
+      "top_keywords": [
+        [
+          "network",
+          19
+        ],
+        [
+          "hub",
+          15
+        ],
+        [
+          "hubs",
+          12
+        ],
+        [
+          "organization",
+          12
+        ],
+        [
+          "connectivity",
+          8
+        ],
+        [
+          "functional",
+          8
+        ],
+        [
+          "networks",
+          7
+        ],
+        [
+          "mode",
+          6
+        ],
+        [
+          "connectome",
+          6
+        ],
+        [
+          "default",
+          5
+        ]
+      ],
+      "top_authors": [
+        [
+          "MP Van Den Heuvel",
+          6
+        ],
+        [
+          "O Sporns",
+          5
+        ],
+        [
+          "MP Van den Heuvel",
+          2
+        ],
+        [
+          "ME Raichle",
+          1
+        ],
+        [
+          "KJ Kersbergen\u2026",
+          1
+        ]
+      ],
+      "year_range": [
+        2007,
+        2022
+      ],
+      "mean_year": 2014.5,
+      "paper_ids": [
+        "p026",
+        "p121",
+        "p122",
+        "p123",
+        "p124",
+        "p125",
+        "p126",
+        "p127",
+        "p128",
+        "p129",
+        "p130",
+        "p131",
+        "p132",
+        "p133",
+        "p134",
+        "p135",
+        "p136",
+        "p137",
+        "p138",
+        "p139",
+        "p140",
+        "p141",
+        "p142",
+        "p143",
+        "p144"
+      ],
+      "internal_edge_weight": 287.0,
+      "external_edge_weight": 2918.1
+    },
+    "6": {
+      "id": 6,
+      "name": "Precision Mapping & Individual Differences",
+      "size": 25,
+      "total_citations": 8594,
+      "mean_citations": 344.0,
+      "top_keywords": [
+        [
+          "functional",
+          21
+        ],
+        [
+          "individual",
+          20
+        ],
+        [
+          "network",
+          15
+        ],
+        [
+          "precision",
+          11
+        ],
+        [
+          "connectivity",
+          9
+        ],
+        [
+          "connectome",
+          8
+        ],
+        [
+          "fingerprinting",
+          6
+        ],
+        [
+          "fmri",
+          5
+        ],
+        [
+          "networks",
+          4
+        ],
+        [
+          "graph",
+          4
+        ]
+      ],
+      "top_authors": [
+        [
+          "ES Finn",
+          2
+        ],
+        [
+          "X Shen",
+          1
+        ],
+        [
+          "EM Gordon",
+          1
+        ],
+        [
+          "TO Laumann",
+          1
+        ],
+        [
+          "S Marek",
+          1
+        ]
+      ],
+      "year_range": [
+        2012,
+        2025
+      ],
+      "mean_year": 2019.9,
+      "paper_ids": [
+        "p145",
+        "p146",
+        "p147",
+        "p148",
+        "p149",
+        "p150",
+        "p151",
+        "p152",
+        "p153",
+        "p154",
+        "p155",
+        "p156",
+        "p157",
+        "p158",
+        "p159",
+        "p160",
+        "p161",
+        "p162",
+        "p163",
+        "p164",
+        "p165",
+        "p166",
+        "p167",
+        "p168",
+        "p169"
+      ],
+      "internal_edge_weight": 310.5,
+      "external_edge_weight": 2812.3
+    },
+    "7": {
+      "id": 7,
+      "name": "Methods, Tools & Parcellations",
+      "size": 25,
+      "total_citations": 14764,
+      "mean_citations": 591.0,
+      "top_keywords": [
+        [
+          "functional",
+          9
+        ],
+        [
+          "connectivity",
+          9
+        ],
+        [
+          "motion",
+          7
+        ],
+        [
+          "graph",
+          6
+        ],
+        [
+          "fmri",
+          6
+        ],
+        [
+          "preprocessing",
+          6
+        ],
+        [
+          "parcellation",
+          6
+        ],
+        [
+          "connectome",
+          6
+        ],
+        [
+          "artifact",
+          6
+        ],
+        [
+          "control",
+          5
+        ]
+      ],
+      "top_authors": [
+        [
+          "A Schaefer",
+          2
+        ],
+        [
+          "R Kong",
+          2
+        ],
+        [
+          "R Ciric",
+          2
+        ],
+        [
+          "B Jeurissen",
+          1
+        ],
+        [
+          "M Descoteaux",
+          1
+        ]
+      ],
+      "year_range": [
+        2012,
+        2024
+      ],
+      "mean_year": 2019.0,
+      "paper_ids": [
+        "p056",
+        "p195",
+        "p196",
+        "p197",
+        "p198",
+        "p199",
+        "p200",
+        "p201",
+        "p202",
+        "p203",
+        "p204",
+        "p205",
+        "p206",
+        "p207",
+        "p208",
+        "p209",
+        "p210",
+        "p211",
+        "p212",
+        "p213",
+        "p214",
+        "p215",
+        "p216",
+        "p217",
+        "p218"
+      ],
+      "internal_edge_weight": 158.9,
+      "external_edge_weight": 2188.5
+    },
+    "8": {
+      "id": 8,
+      "name": "Recent Advances (arXiv)",
+      "size": 25,
+      "total_citations": 0,
+      "mean_citations": 0.0,
+      "top_keywords": [
+        [
+          "network",
+          25
+        ],
+        [
+          "connectivity",
+          21
+        ],
+        [
+          "functional",
+          21
+        ],
+        [
+          "connectome",
+          17
+        ],
+        [
+          "networks",
+          17
+        ],
+        [
+          "graph",
+          17
+        ],
+        [
+          "fmri",
+          12
+        ],
+        [
+          "structural",
+          9
+        ],
+        [
+          "dynamic",
+          8
+        ],
+        [
+          "dynamics",
+          7
+        ]
+      ],
+      "top_authors": [],
+      "year_range": [
+        2022,
+        2026
+      ],
+      "mean_year": 2025.2,
+      "paper_ids": [
+        "p219",
+        "p220",
+        "p221",
+        "p222",
+        "p223",
+        "p224",
+        "p225",
+        "p226",
+        "p227",
+        "p228",
+        "p229",
+        "p230",
+        "p231",
+        "p232",
+        "p233",
+        "p234",
+        "p235",
+        "p236",
+        "p237",
+        "p238",
+        "p239",
+        "p240",
+        "p241",
+        "p242",
+        "p243"
+      ],
+      "internal_edge_weight": 633.3,
+      "external_edge_weight": 3317.1
+    }
+  },
+  "bridge_papers": [
+    {
+      "id": "p179",
+      "title": "Age-related changes in the default mode network are more advanced in Alzheimer disease",
+      "authors": "DT Jones, MM Machulda, P Vemuri, EM McDade et al.",
+      "year": 2011,
+      "community": "Clinical Applications",
+      "betweenness": 0.014222,
+      "cross_community_edges": 142,
+      "citations": 464
+    },
+    {
+      "id": "p212",
+      "title": "Connectivity\u2010based parcellation of normal and anatomically distorted human cerebral cortex",
+      "authors": "S Doyen, P Nicholas, A Poologaindran\u2026",
+      "year": 2022,
+      "community": "Methods, Tools & Parcellations",
+      "betweenness": 0.014007,
+      "cross_community_edges": 124,
+      "citations": 60
+    },
+    {
+      "id": "p065",
+      "title": "Mapping brain anatomical connectivity using white matter tractography",
+      "authors": "M Lazar",
+      "year": 2010,
+      "community": "Structural Connectivity & dMRI",
+      "betweenness": 0.013725,
+      "cross_community_edges": 149,
+      "citations": 203
+    },
+    {
+      "id": "p052",
+      "title": "Diffusion tensor imaging (DTI)-based white matter mapping in brain research: a review",
+      "authors": "Y Assaf, O Pasternak",
+      "year": 2008,
+      "community": "Structural Connectivity & dMRI",
+      "betweenness": 0.012113,
+      "cross_community_edges": 117,
+      "citations": 2068
+    },
+    {
+      "id": "p137",
+      "title": "Gradients in brain organization",
+      "authors": "BC Bernhardt, J Smallwood, S Keilholz, DS Margulies",
+      "year": 2022,
+      "community": "Hubs, Rich-Club & Gradients",
+      "betweenness": 0.011787,
+      "cross_community_edges": 128,
+      "citations": 153
+    },
+    {
+      "id": "p168",
+      "title": "Brain fingerprinting and cognitive behavior predicting using functional connectome of high inter-subject variability",
+      "authors": "J Lu, T Yan, L Yang, X Zhang, J Li, D Li, J Xiang\u2026",
+      "year": 2024,
+      "community": "Precision Mapping & Individual Differences",
+      "betweenness": 0.010441,
+      "cross_community_edges": 120,
+      "citations": 26
+    },
+    {
+      "id": "p237",
+      "title": "Supervised Deep Multimodal Matrix Factorization for Interpretable Brain Network Analysis",
+      "authors": [
+        "Amjad Seyedi",
+        "Lifang He",
+        "Songlin Zhao",
+        "Akwum Onwunta",
+        "Nicolas Gillis"
+      ],
+      "year": 2026,
+      "community": "Recent Advances (arXiv)",
+      "betweenness": 0.009676,
+      "cross_community_edges": 132,
+      "citations": 0
+    },
+    {
+      "id": "p191",
+      "title": "Structural brain connectome and cognitive impairment in Parkinson disease",
+      "authors": "S Galantucci, F Agosta, E Stefanova, S Basaia et al.",
+      "year": 2017,
+      "community": "Clinical Applications",
+      "betweenness": 0.009642,
+      "cross_community_edges": 147,
+      "citations": 107
+    },
+    {
+      "id": "p163",
+      "title": "Existence of functional connectome fingerprint during infancy and its stability over months",
+      "authors": "\u2026, UNC/UMN Baby Connectome Project \u2026",
+      "year": 2022,
+      "community": "Precision Mapping & Individual Differences",
+      "betweenness": 0.008327,
+      "cross_community_edges": 132,
+      "citations": 51
+    },
+    {
+      "id": "p138",
+      "title": "Hubs in the human fetal brain network",
+      "authors": "MI van den Heuvel, E Turk, JH Manning, J Hect\u2026",
+      "year": 2018,
+      "community": "Hubs, Rich-Club & Gradients",
+      "betweenness": 0.007843,
+      "cross_community_edges": 150,
+      "citations": 117
+    },
+    {
+      "id": "p122",
+      "title": "The neonatal connectome during preterm brain development",
+      "authors": "MP Van Den Heuvel, KJ Kersbergen\u2026",
+      "year": 2015,
+      "community": "Hubs, Rich-Club & Gradients",
+      "betweenness": 0.007488,
+      "cross_community_edges": 169,
+      "citations": 438
+    },
+    {
+      "id": "p178",
+      "title": "Disrupted functional brain connectome in individuals at risk for Alzheimer's disease",
+      "authors": "J Wang, X Zuo, Z Dai, M Xia, Z Zhao, X Zhao, J Jia et al.",
+      "year": 2013,
+      "community": "Clinical Applications",
+      "betweenness": 0.006938,
+      "cross_community_edges": 169,
+      "citations": 529
+    },
+    {
+      "id": "p206",
+      "title": "DISCOVER-EEG: an open, fully automated EEG pipeline for biomarker discovery in clinical neuroscience",
+      "authors": "C Gil \u00c1vila, FS Bott, L Tiemann, VD Hohn, ES May\u2026",
+      "year": 2023,
+      "community": "Methods, Tools & Parcellations",
+      "betweenness": 0.006728,
+      "cross_community_edges": 109,
+      "citations": 90
+    },
+    {
+      "id": "p118",
+      "title": "Applications of community detection techniques to brain graphs: Algorithmic considerations and implications for neural function",
+      "authors": "JO Garcia, A Ashourvan, S Muldoon\u2026",
+      "year": 2018,
+      "community": "Foundations & Graph Theory",
+      "betweenness": 0.006588,
+      "cross_community_edges": 140,
+      "citations": 187
+    },
+    {
+      "id": "p055",
+      "title": "White matter maturation reshapes structural connectivity in the late developing human brain",
+      "authors": "P Hagmann, O Sporns, N Madan, L Cammoun\u2026",
+      "year": 2010,
+      "community": "Structural Connectivity & dMRI",
+      "betweenness": 0.00653,
+      "cross_community_edges": 168,
+      "citations": 867
+    },
+    {
+      "id": "p167",
+      "title": "The promise of precision functional mapping for neuroimaging in psychiatry",
+      "authors": "DV Demeter, DJ Greene",
+      "year": 2025,
+      "community": "Precision Mapping & Individual Differences",
+      "betweenness": 0.006524,
+      "cross_community_edges": 169,
+      "citations": 27
+    },
+    {
+      "id": "p209",
+      "title": "A toolbox for brain network construction and classification (BrainNetClass)",
+      "authors": "Z Zhou, X Chen, Y Zhang, D Hu, L Qiao\u2026",
+      "year": 2020,
+      "community": "Methods, Tools & Parcellations",
+      "betweenness": 0.006109,
+      "cross_community_edges": 172,
+      "citations": 80
+    },
+    {
+      "id": "p132",
+      "title": "Rich-club in the brain's macrostructure: Insights from graph theoretical analysis",
+      "authors": "DJ Kim, BK Min",
+      "year": 2020,
+      "community": "Hubs, Rich-Club & Gradients",
+      "betweenness": 0.005748,
+      "cross_community_edges": 112,
+      "citations": 87
+    },
+    {
+      "id": "p020",
+      "title": "Network analysis, complexity, and brain function",
+      "authors": [
+        "O Sporns"
+      ],
+      "year": 2002,
+      "community": "Foundations & Graph Theory",
+      "betweenness": 0.005691,
+      "cross_community_edges": 72,
+      "citations": 369
+    },
+    {
+      "id": "p139",
+      "title": "Task-based core-periphery organization of human brain dynamics",
+      "authors": "DS Bassett, NF Wymbs, MP Rombach\u2026",
+      "year": 2013,
+      "community": "Hubs, Rich-Club & Gradients",
+      "betweenness": 0.00564,
+      "cross_community_edges": 148,
+      "citations": 448
+    }
+  ],
+  "research_gap": {
+    "gap_statement": "Despite extensive research on both structural connectivity (dMRI tractography) and individual variability in functional connectivity, there is a critical lack of integrative frameworks that link individual differences in structural topology to personalized functional network organization. Most precision mapping studies focus exclusively on functional data, while structural connectomics remains dominated by group-average analyses. The few studies bridging both modalities have shown that structure-function coupling itself varies across individuals in behaviorally meaningful ways, yet no standardized methodology exists for precision structural connectome mapping or for predicting functional network topology from individual structural connectomes.",
+    "structural_hole": "Structural Connectivity & dMRI <-> Precision Mapping & Individual Differences",
+    "gap_centrality": "This gap sits at the intersection of three major communities: structural connectivity (n=23), precision mapping (n=25), and methods (n=25). Cross-community edge weight is 221.1 (normalized: 3.845), indicating below-average interconnection.",
+    "why_it_matters": "Individual variability in brain structure is the anatomical scaffold for functional variability. Without precision structural mapping, we cannot determine whether observed functional differences reflect true neural variation or noise. This limits clinical translation, as patient-specific interventions require both structural and functional biomarkers. The gap also hampers developmental research, as structure-function coupling changes substantially across the lifespan.",
+    "proposed_direction": "Develop precision structural connectome mapping pipelines that account for individual variability in white matter architecture, and validate structure-function coupling as a behaviorally-reliable individual difference metric. Benchmark against functional-only precision mapping using within-subject test-retest designs."
+  },
+  "argument_spine": {
+    "claim": "Individual differences in brain network organization are primarily studied through functional connectivity, while structural connectivity remains analyzed at the group level, creating a methodological asymmetry that limits our understanding of how anatomy shapes individual functional topology.",
+    "evidence_for": [
+      "Finn et al. (2015) showed functional connectome fingerprinting reliably identifies individuals (3,318 citations)",
+      "Gordon et al. (2017) demonstrated that individual-specific areal-level parcellations improve behavior prediction (1,543 citations)",
+      "Kong et al. (2019) found spatial topography of individual-specific cortical networks predicts cognition, personality, and emotion (724 citations)",
+      "Hagmann et al. (2008) established structural core mapping, but used group-averaged approaches (5,336 citations)"
+    ],
+    "counter_evidence": [
+      "Structural connectivity shows lower test-retest reliability than functional connectivity (Buchanan et al., 2014; He et al., 2014)",
+      "Diffusion MRI tractography has known limitations in crossing fiber regions (Jeurissen et al., 2019)",
+      "Individual variability in structural connectivity may reflect noise rather than true biological variation (Miranda-Dominguez et al., 2014)"
+    ],
+    "the_gap": "No standardized precision structural connectome methodology exists; structure-function coupling as an individual difference metric remains underdeveloped; most multimodal studies average across subjects, masking individual structure-function relationships.",
+    "significance": "Precision medicine in neuroscience requires both structural and functional individual markers; developmental and aging research needs longitudinal structure-function coupling metrics; clinical interventions targeting white matter (e.g., TMS) need patient-specific structural targets."
+  },
+  "timeline": {
+    "1994": {
+      "count": 1,
+      "top_keywords": [
+        [
+          "connectivity",
+          1
+        ],
+        [
+          "functional",
+          1
+        ],
+        [
+          "dynamics",
+          1
+        ],
+        [
+          "dynamic",
+          1
+        ],
+        [
+          "integration",
+          1
+        ]
+      ],
+      "community_breakdown": {
+        "0": 1
+      },
+      "total_citations": 2235
+    },
+    "1996": {
+      "count": 1,
+      "top_keywords": [
+        [
+          "connectivity",
+          1
+        ],
+        [
+          "functional",
+          1
+        ],
+        [
+          "complexity",
+          1
+        ],
+        [
+          "statistical",
+          1
+        ],
+        [
+          "neural",
+          1
+        ]
+      ],
+      "community_breakdown": {
+        "0": 1
+      },
+      "total_citations": 300
+    },
+    "1997": {
+      "count": 1,
+      "top_keywords": [
+        [
+          "connectivity",
+          1
+        ],
+        [
+          "functional",
+          1
+        ],
+        [
+          "state",
+          1
+        ],
+        [
+          "aging",
+          1
+        ],
+        [
+          "resting",
+          1
+        ]
+      ],
+      "community_breakdown": {
+        "1": 1
+      },
+      "total_citations": 920
+    },
+    "1998": {
+      "count": 2,
+      "top_keywords": [
+        [
+          "network",
+          2
+        ],
+        [
+          "connectivity",
+          1
+        ],
+        [
+          "complexity",
+          1
+        ],
+        [
+          "coherency",
+          1
+        ],
+        [
+          "integrating",
+          1
+        ]
+      ],
+      "community_breakdown": {
+        "0": 2
+      },
+      "total_citations": 60910
+    },
+    "1999": {
+      "count": 1,
+      "top_keywords": [
+        [
+          "network",
+          1
+        ],
+        [
+          "networks",
+          1
+        ],
+        [
+          "model",
+          1
+        ],
+        [
+          "mode",
+          1
+        ],
+        [
+          "small",
+          1
+        ]
+      ],
+      "community_breakdown": {
+        "0": 1
+      },
+      "total_citations": 1760
+    },
+    "2000": {
+      "count": 2,
+      "top_keywords": [
+        [
+          "connectivity",
+          2
+        ],
+        [
+          "functional",
+          2
+        ],
+        [
+          "complexity",
+          2
+        ],
+        [
+          "neural",
+          2
+        ],
+        [
+          "graph",
+          1
+        ]
+      ],
+      "community_breakdown": {
+        "0": 2
+      },
+      "total_citations": 1681
+    },
+    "2001": {
+      "count": 2,
+      "top_keywords": [
+        [
+          "mode",
+          2
+        ],
+        [
+          "state",
+          1
+        ],
+        [
+          "default",
+          1
+        ],
+        [
+          "control",
+          1
+        ],
+        [
+          "baseline",
+          1
+        ]
+      ],
+      "community_breakdown": {
+        "1": 1,
+        "0": 1
+      },
+      "total_citations": 16441
+    },
+    "2002": {
+      "count": 1,
+      "top_keywords": [
+        [
+          "network",
+          1
+        ],
+        [
+          "complexity",
+          1
+        ],
+        [
+          "function",
+          1
+        ],
+        [
+          "naturally",
+          1
+        ],
+        [
+          "emerge",
+          1
+        ]
+      ],
+      "community_breakdown": {
+        "0": 1
+      },
+      "total_citations": 369
+    },
+    "2003": {
+      "count": 2,
+      "top_keywords": [
+        [
+          "connectivity",
+          2
+        ],
+        [
+          "network",
+          1
+        ],
+        [
+          "functional",
+          1
+        ],
+        [
+          "default",
+          1
+        ],
+        [
+          "mode",
+          1
+        ]
+      ],
+      "community_breakdown": {
+        "1": 1,
+        "2": 1
+      },
+      "total_citations": 2787
+    },
+    "2004": {
+      "count": 3,
+      "top_keywords": [
+        [
+          "connectivity",
+          3
+        ],
+        [
+          "functional",
+          3
+        ],
+        [
+          "network",
+          2
+        ],
+        [
+          "fmri",
+          2
+        ],
+        [
+          "schizophrenia",
+          1
+        ]
+      ],
+      "community_breakdown": {
+        "1": 1,
+        "3": 1,
+        "4": 1
+      },
+      "total_citations": 5502
+    },
+    "2005": {
+      "count": 1,
+      "top_keywords": [
+        [
+          "connectivity",
+          1
+        ],
+        [
+          "diffusion",
+          1
+        ],
+        [
+          "connectomics",
+          1
+        ],
+        [
+          "provides",
+          1
+        ],
+        [
+          "nerve",
+          1
+        ]
+      ],
+      "community_breakdown": {
+        "2": 1
+      },
+      "total_citations": 314
+    },
+    "2006": {
+      "count": 2,
+      "top_keywords": [
+        [
+          "network",
+          1
+        ],
+        [
+          "networks",
+          1
+        ],
+        [
+          "functional",
+          1
+        ],
+        [
+          "graph",
+          1
+        ],
+        [
+          "small",
+          1
+        ]
+      ],
+      "community_breakdown": {
+        "0": 1,
+        "2": 1
+      },
+      "total_citations": 4561
+    },
+    "2007": {
+      "count": 5,
+      "top_keywords": [
+        [
+          "network",
+          4
+        ],
+        [
+          "networks",
+          4
+        ],
+        [
+          "graph",
+          2
+        ],
+        [
+          "default",
+          1
+        ],
+        [
+          "mode",
+          1
+        ]
+      ],
+      "community_breakdown": {
+        "1": 1,
+        "2": 1,
+        "0": 2,
+        "5": 1
+      },
+      "total_citations": 7386
+    },
+    "2008": {
+      "count": 3,
+      "top_keywords": [
+        [
+          "functional",
+          2
+        ],
+        [
+          "aging",
+          2
+        ],
+        [
+          "diffusion",
+          2
+        ],
+        [
+          "connectivity",
+          1
+        ],
+        [
+          "fmri",
+          1
+        ]
+      ],
+      "community_breakdown": {
+        "1": 1,
+        "2": 2
+      },
+      "total_citations": 8685
+    },
+    "2009": {
+      "count": 8,
+      "top_keywords": [
+        [
+          "network",
+          7
+        ],
+        [
+          "networks",
+          4
+        ],
+        [
+          "functional",
+          3
+        ],
+        [
+          "structural",
+          3
+        ],
+        [
+          "graph",
+          3
+        ]
+      ],
+      "community_breakdown": {
+        "0": 3,
+        "1": 2,
+        "3": 1,
+        "5": 2
+      },
+      "total_citations": 20111
+    },
+    "2010": {
+      "count": 10,
+      "top_keywords": [
+        [
+          "connectivity",
+          9
+        ],
+        [
+          "network",
+          6
+        ],
+        [
+          "structural",
+          4
+        ],
+        [
+          "functional",
+          3
+        ],
+        [
+          "state",
+          3
+        ]
+      ],
+      "community_breakdown": {
+        "0": 2,
+        "1": 4,
+        "2": 3,
+        "4": 1
+      },
+      "total_citations": 23466
+    },
+    "2011": {
+      "count": 14,
+      "top_keywords": [
+        [
+          "network",
+          11
+        ],
+        [
+          "mode",
+          8
+        ],
+        [
+          "model",
+          6
+        ],
+        [
+          "networks",
+          6
+        ],
+        [
+          "connectome",
+          4
+        ]
+      ],
+      "community_breakdown": {
+        "0": 8,
+        "1": 1,
+        "5": 1,
+        "4": 4
+      },
+      "total_citations": 11293
+    },
+    "2012": {
+      "count": 13,
+      "top_keywords": [
+        [
+          "network",
+          8
+        ],
+        [
+          "functional",
+          6
+        ],
+        [
+          "networks",
+          4
+        ],
+        [
+          "graph",
+          4
+        ],
+        [
+          "connectivity",
+          4
+        ]
+      ],
+      "community_breakdown": {
+        "0": 5,
+        "1": 4,
+        "5": 1,
+        "6": 1,
+        "4": 1,
+        "7": 1
+      },
+      "total_citations": 15526
+    },
+    "2013": {
+      "count": 17,
+      "top_keywords": [
+        [
+          "network",
+          13
+        ],
+        [
+          "functional",
+          8
+        ],
+        [
+          "networks",
+          7
+        ],
+        [
+          "connectivity",
+          6
+        ],
+        [
+          "connectome",
+          5
+        ]
+      ],
+      "community_breakdown": {
+        "0": 4,
+        "1": 1,
+        "3": 1,
+        "2": 1,
+        "5": 5,
+        "4": 3,
+        "7": 2
+      },
+      "total_citations": 19617
+    },
+    "2014": {
+      "count": 14,
+      "top_keywords": [
+        [
+          "connectivity",
+          10
+        ],
+        [
+          "network",
+          10
+        ],
+        [
+          "functional",
+          6
+        ],
+        [
+          "dynamic",
+          5
+        ],
+        [
+          "networks",
+          4
+        ]
+      ],
+      "community_breakdown": {
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "5": 4,
+        "4": 3,
+        "7": 1
+      },
+      "total_citations": 9996
+    },
+    "2015": {
+      "count": 14,
+      "top_keywords": [
+        [
+          "connectome",
+          8
+        ],
+        [
+          "network",
+          6
+        ],
+        [
+          "connectivity",
+          6
+        ],
+        [
+          "mode",
+          5
+        ],
+        [
+          "functional",
+          4
+        ]
+      ],
+      "community_breakdown": {
+        "5": 2,
+        "2": 3,
+        "3": 2,
+        "0": 1,
+        "6": 1,
+        "4": 4,
+        "7": 1
+      },
+      "total_citations": 17972
+    },
+    "2016": {
+      "count": 14,
+      "top_keywords": [
+        [
+          "network",
+          7
+        ],
+        [
+          "connectivity",
+          6
+        ],
+        [
+          "functional",
+          6
+        ],
+        [
+          "networks",
+          5
+        ],
+        [
+          "state",
+          5
+        ]
+      ],
+      "community_breakdown": {
+        "0": 6,
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "5": 1,
+        "7": 1
+      },
+      "total_citations": 13580
+    },
+    "2017": {
+      "count": 14,
+      "top_keywords": [
+        [
+          "network",
+          10
+        ],
+        [
+          "functional",
+          9
+        ],
+        [
+          "connectivity",
+          7
+        ],
+        [
+          "networks",
+          6
+        ],
+        [
+          "fmri",
+          6
+        ]
+      ],
+      "community_breakdown": {
+        "0": 2,
+        "1": 3,
+        "2": 2,
+        "3": 1,
+        "5": 2,
+        "6": 3,
+        "4": 1
+      },
+      "total_citations": 6016
+    },
+    "2018": {
+      "count": 21,
+      "top_keywords": [
+        [
+          "network",
+          12
+        ],
+        [
+          "connectivity",
+          11
+        ],
+        [
+          "functional",
+          10
+        ],
+        [
+          "connectome",
+          5
+        ],
+        [
+          "individual",
+          5
+        ]
+      ],
+      "community_breakdown": {
+        "0": 2,
+        "2": 1,
+        "3": 5,
+        "5": 4,
+        "6": 5,
+        "4": 1,
+        "7": 3
+      },
+      "total_citations": 9858
+    },
+    "2019": {
+      "count": 11,
+      "top_keywords": [
+        [
+          "connectivity",
+          7
+        ],
+        [
+          "functional",
+          5
+        ],
+        [
+          "graph",
+          4
+        ],
+        [
+          "state",
+          4
+        ],
+        [
+          "dynamic",
+          3
+        ]
+      ],
+      "community_breakdown": {
+        "0": 1,
+        "7": 4,
+        "3": 4,
+        "6": 1,
+        "4": 1
+      },
+      "total_citations": 8445
+    },
+    "2020": {
+      "count": 13,
+      "top_keywords": [
+        [
+          "network",
+          7
+        ],
+        [
+          "functional",
+          7
+        ],
+        [
+          "connectivity",
+          6
+        ],
+        [
+          "connectome",
+          4
+        ],
+        [
+          "state",
+          4
+        ]
+      ],
+      "community_breakdown": {
+        "2": 2,
+        "3": 3,
+        "5": 1,
+        "6": 3,
+        "4": 2,
+        "7": 2
+      },
+      "total_citations": 1858
+    },
+    "2021": {
+      "count": 11,
+      "top_keywords": [
+        [
+          "connectivity",
+          5
+        ],
+        [
+          "network",
+          5
+        ],
+        [
+          "functional",
+          5
+        ],
+        [
+          "structural",
+          4
+        ],
+        [
+          "connectome",
+          4
+        ]
+      ],
+      "community_breakdown": {
+        "2": 1,
+        "3": 1,
+        "6": 3,
+        "4": 3,
+        "7": 3
+      },
+      "total_citations": 1576
+    },
+    "2022": {
+      "count": 8,
+      "top_keywords": [
+        [
+          "connectivity",
+          4
+        ],
+        [
+          "functional",
+          4
+        ],
+        [
+          "network",
+          4
+        ],
+        [
+          "networks",
+          3
+        ],
+        [
+          "connectome",
+          3
+        ]
+      ],
+      "community_breakdown": {
+        "1": 1,
+        "0": 1,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "8": 1
+      },
+      "total_citations": 1145
+    },
+    "2023": {
+      "count": 8,
+      "top_keywords": [
+        [
+          "network",
+          5
+        ],
+        [
+          "functional",
+          3
+        ],
+        [
+          "graph",
+          3
+        ],
+        [
+          "networks",
+          3
+        ],
+        [
+          "individual",
+          2
+        ]
+      ],
+      "community_breakdown": {
+        "6": 2,
+        "7": 4,
+        "8": 2
+      },
+      "total_citations": 394
+    },
+    "2024": {
+      "count": 6,
+      "top_keywords": [
+        [
+          "functional",
+          5
+        ],
+        [
+          "graph",
+          5
+        ],
+        [
+          "network",
+          4
+        ],
+        [
+          "connectivity",
+          3
+        ],
+        [
+          "networks",
+          3
+        ]
+      ],
+      "community_breakdown": {
+        "6": 2,
+        "7": 1,
+        "8": 3
+      },
+      "total_citations": 149
+    },
+    "2025": {
+      "count": 6,
+      "top_keywords": [
+        [
+          "network",
+          6
+        ],
+        [
+          "networks",
+          5
+        ],
+        [
+          "functional",
+          5
+        ],
+        [
+          "connectome",
+          5
+        ],
+        [
+          "connectivity",
+          4
+        ]
+      ],
+      "community_breakdown": {
+        "6": 2,
+        "8": 4
+      },
+      "total_citations": 53
+    },
+    "2026": {
+      "count": 15,
+      "top_keywords": [
+        [
+          "network",
+          15
+        ],
+        [
+          "connectivity",
+          13
+        ],
+        [
+          "functional",
+          13
+        ],
+        [
+          "connectome",
+          11
+        ],
+        [
+          "networks",
+          7
+        ]
+      ],
+      "community_breakdown": {
+        "8": 15
+      },
+      "total_citations": 0
+    }
+  },
+  "journal_distribution": [
+    {
+      "journal": "arXiv preprint",
+      "count": 25
+    },
+    {
+      "journal": "NeuroImage",
+      "count": 16
+    },
+    {
+      "journal": "Neuroimage",
+      "count": 10
+    },
+    {
+      "journal": "Elsevier",
+      "count": 10
+    },
+    {
+      "journal": "nature.com",
+      "count": 9
+    },
+    {
+      "journal": "Proceedings of the National Academy of Sciences",
+      "count": 7
+    },
+    {
+      "journal": "Wiley Online Library",
+      "count": 6
+    },
+    {
+      "journal": "Frontiers in \u2026",
+      "count": 5
+    },
+    {
+      "journal": "Cerebral Cortex",
+      "count": 5
+    },
+    {
+      "journal": "Human Brain Mapping",
+      "count": 5
+    },
+    {
+      "journal": "Human brain \u2026",
+      "count": 5
+    },
+    {
+      "journal": "Biological Psychiatry",
+      "count": 4
+    },
+    {
+      "journal": "Brain Connectivity",
+      "count": 4
+    },
+    {
+      "journal": "academic.oup.com",
+      "count": 4
+    },
+    {
+      "journal": "pnas.org",
+      "count": 4
+    },
+    {
+      "journal": "journals.plos.org",
+      "count": 4
+    },
+    {
+      "journal": "NMR in Biomedicine",
+      "count": 3
+    },
+    {
+      "journal": "Brain Structure and Function",
+      "count": 3
+    },
+    {
+      "journal": "Nature Reviews Neuroscience",
+      "count": 3
+    },
+    {
+      "journal": "jneurosci.org",
+      "count": 3
+    }
+  ],
+  "year_distribution": [
+    {
+      "year": "1994",
+      "count": 1
+    },
+    {
+      "year": "1996",
+      "count": 1
+    },
+    {
+      "year": "1997",
+      "count": 1
+    },
+    {
+      "year": "1998",
+      "count": 2
+    },
+    {
+      "year": "1999",
+      "count": 1
+    },
+    {
+      "year": "2000",
+      "count": 2
+    },
+    {
+      "year": "2001",
+      "count": 2
+    },
+    {
+      "year": "2002",
+      "count": 1
+    },
+    {
+      "year": "2003",
+      "count": 2
+    },
+    {
+      "year": "2004",
+      "count": 3
+    },
+    {
+      "year": "2005",
+      "count": 1
+    },
+    {
+      "year": "2006",
+      "count": 2
+    },
+    {
+      "year": "2007",
+      "count": 5
+    },
+    {
+      "year": "2008",
+      "count": 3
+    },
+    {
+      "year": "2009",
+      "count": 8
+    },
+    {
+      "year": "2010",
+      "count": 10
+    },
+    {
+      "year": "2011",
+      "count": 14
+    },
+    {
+      "year": "2012",
+      "count": 13
+    },
+    {
+      "year": "2013",
+      "count": 17
+    },
+    {
+      "year": "2014",
+      "count": 14
+    },
+    {
+      "year": "2015",
+      "count": 14
+    },
+    {
+      "year": "2016",
+      "count": 14
+    },
+    {
+      "year": "2017",
+      "count": 14
+    },
+    {
+      "year": "2018",
+      "count": 21
+    },
+    {
+      "year": "2019",
+      "count": 11
+    },
+    {
+      "year": "2020",
+      "count": 13
+    },
+    {
+      "year": "2021",
+      "count": 11
+    },
+    {
+      "year": "2022",
+      "count": 8
+    },
+    {
+      "year": "2023",
+      "count": 8
+    },
+    {
+      "year": "2024",
+      "count": 6
+    },
+    {
+      "year": "2025",
+      "count": 6
+    },
+    {
+      "year": "2026",
+      "count": 15
+    }
+  ],
+  "decade_distribution": {
+    "2000s": 29,
+    "2010s": 142,
+    "1990s": 6,
+    "2020s": 67
+  },
+  "coauthorship": {
+    "top_authors": [
+      {
+        "name": "O Sporns",
+        "paper_count": 15,
+        "papers": [
+          "p017",
+          "p055",
+          "p101",
+          "p105",
+          "p110",
+          "p112",
+          "p115",
+          "p121",
+          "p124",
+          "p126",
+          "p127",
+          "p131",
+          "p135",
+          "p177",
+          "p183"
+        ]
+      },
+      {
+        "name": "MP Van Den Heuvel",
+        "paper_count": 9,
+        "papers": [
+          "p027",
+          "p121",
+          "p122",
+          "p126",
+          "p129",
+          "p131",
+          "p136",
+          "p175",
+          "p177"
+        ]
+      },
+      {
+        "name": "ME Raichle",
+        "paper_count": 8,
+        "papers": [
+          "p025",
+          "p026",
+          "p028",
+          "p030",
+          "p037",
+          "p038",
+          "p043",
+          "p170"
+        ]
+      },
+      {
+        "name": "P Hagmann",
+        "paper_count": 8,
+        "papers": [
+          "p050",
+          "p053",
+          "p054",
+          "p055",
+          "p057",
+          "p058",
+          "p059",
+          "p061"
+        ]
+      },
+      {
+        "name": "VD Calhoun",
+        "paper_count": 5,
+        "papers": [
+          "p040",
+          "p076",
+          "p088",
+          "p093",
+          "p160"
+        ]
+      },
+      {
+        "name": "M Rubinov",
+        "paper_count": 5,
+        "papers": [
+          "p105",
+          "p108",
+          "p110",
+          "p113",
+          "p115"
+        ]
+      },
+      {
+        "name": "DS Bassett",
+        "paper_count": 4,
+        "papers": [
+          "p033",
+          "p077",
+          "p104",
+          "p139"
+        ]
+      },
+      {
+        "name": "BB Biswal",
+        "paper_count": 4,
+        "papers": [
+          "p035",
+          "p039",
+          "p048",
+          "p082"
+        ]
+      },
+      {
+        "name": "R Kong",
+        "paper_count": 4,
+        "papers": [
+          "p079",
+          "p148",
+          "p196",
+          "p201"
+        ]
+      },
+      {
+        "name": "DS Margulies",
+        "paper_count": 4,
+        "papers": [
+          "p137",
+          "p141",
+          "p144",
+          "p207"
+        ]
+      },
+      {
+        "name": "AZ Snyder",
+        "paper_count": 3,
+        "papers": [
+          "p028",
+          "p038",
+          "p198"
+        ]
+      },
+      {
+        "name": "J Li",
+        "paper_count": 3,
+        "papers": [
+          "p079",
+          "p148",
+          "p168"
+        ]
+      },
+      {
+        "name": "CJ Stam",
+        "paper_count": 3,
+        "papers": [
+          "p080",
+          "p102",
+          "p103"
+        ]
+      },
+      {
+        "name": "F Agosta",
+        "paper_count": 3,
+        "papers": [
+          "p116",
+          "p174",
+          "p191"
+        ]
+      },
+      {
+        "name": "A Fornito",
+        "paper_count": 3,
+        "papers": [
+          "p125",
+          "p172",
+          "p175"
+        ]
+      },
+      {
+        "name": "C Kelly",
+        "paper_count": 3,
+        "papers": [
+          "p169",
+          "p180",
+          "p186"
+        ]
+      },
+      {
+        "name": "AZ Snyder\u2026",
+        "paper_count": 2,
+        "papers": [
+          "p025",
+          "p031"
+        ]
+      },
+      {
+        "name": "A Di Martino",
+        "paper_count": 2,
+        "papers": [
+          "p034",
+          "p180"
+        ]
+      },
+      {
+        "name": "T Adali",
+        "paper_count": 2,
+        "papers": [
+          "p040",
+          "p088"
+        ]
+      },
+      {
+        "name": "MP van den Heuvel",
+        "paper_count": 2,
+        "papers": [
+          "p041",
+          "p070"
+        ]
+      },
+      {
+        "name": "X Di",
+        "paper_count": 2,
+        "papers": [
+          "p048",
+          "p082"
+        ]
+      },
+      {
+        "name": "L Cammoun",
+        "paper_count": 2,
+        "papers": [
+          "p050",
+          "p059"
+        ]
+      },
+      {
+        "name": "X Gigandet",
+        "paper_count": 2,
+        "papers": [
+          "p050",
+          "p054"
+        ]
+      },
+      {
+        "name": "L Jonasson",
+        "paper_count": 2,
+        "papers": [
+          "p053",
+          "p057"
+        ]
+      },
+      {
+        "name": "JP Thiran",
+        "paper_count": 2,
+        "papers": [
+          "p057",
+          "p058"
+        ]
+      },
+      {
+        "name": "A Griffa",
+        "paper_count": 2,
+        "papers": [
+          "p058",
+          "p129"
+        ]
+      },
+      {
+        "name": "T Zhao",
+        "paper_count": 2,
+        "papers": [
+          "p064",
+          "p073"
+        ]
+      },
+      {
+        "name": "XN Zuo",
+        "paper_count": 2,
+        "papers": [
+          "p064",
+          "p180"
+        ]
+      },
+      {
+        "name": "X Wang",
+        "paper_count": 2,
+        "papers": [
+          "p073",
+          "p111"
+        ]
+      },
+      {
+        "name": "E Damaraju",
+        "paper_count": 2,
+        "papers": [
+          "p075",
+          "p081"
+        ]
+      }
+    ],
+    "collaboration_edges": [
+      {
+        "source": "O Sporns",
+        "target": "MP Van Den Heuvel",
+        "shared_papers": 4,
+        "paper_ids": [
+          "p177",
+          "p121",
+          "p126",
+          "p131"
+        ]
+      },
+      {
+        "source": "O Sporns",
+        "target": "M Rubinov",
+        "shared_papers": 3,
+        "paper_ids": [
+          "p105",
+          "p110",
+          "p115"
+        ]
+      },
+      {
+        "source": "O Sporns",
+        "target": "MP Van den Heuvel",
+        "shared_papers": 2,
+        "paper_ids": [
+          "p124",
+          "p127"
+        ]
+      },
+      {
+        "source": "ME Raichle",
+        "target": "AZ Snyder",
+        "shared_papers": 2,
+        "paper_ids": [
+          "p038",
+          "p028"
+        ]
+      },
+      {
+        "source": "P Hagmann",
+        "target": "L Cammoun",
+        "shared_papers": 2,
+        "paper_ids": [
+          "p059",
+          "p050"
+        ]
+      },
+      {
+        "source": "P Hagmann",
+        "target": "X Gigandet",
+        "shared_papers": 2,
+        "paper_ids": [
+          "p054",
+          "p050"
+        ]
+      },
+      {
+        "source": "P Hagmann",
+        "target": "L Jonasson",
+        "shared_papers": 2,
+        "paper_ids": [
+          "p057",
+          "p053"
+        ]
+      },
+      {
+        "source": "P Hagmann",
+        "target": "JP Thiran",
+        "shared_papers": 2,
+        "paper_ids": [
+          "p057",
+          "p058"
+        ]
+      },
+      {
+        "source": "VD Calhoun",
+        "target": "T Adali",
+        "shared_papers": 2,
+        "paper_ids": [
+          "p088",
+          "p040"
+        ]
+      },
+      {
+        "source": "BB Biswal",
+        "target": "X Di",
+        "shared_papers": 2,
+        "paper_ids": [
+          "p048",
+          "p082"
+        ]
+      },
+      {
+        "source": "R Kong",
+        "target": "J Li",
+        "shared_papers": 2,
+        "paper_ids": [
+          "p079",
+          "p148"
+        ]
+      },
+      {
+        "source": "B Cai",
+        "target": "G Zhang",
+        "shared_papers": 2,
+        "paper_ids": [
+          "p094",
+          "p161"
+        ]
+      },
+      {
+        "source": "B Cai",
+        "target": "A Zhang",
+        "shared_papers": 2,
+        "paper_ids": [
+          "p094",
+          "p161"
+        ]
+      },
+      {
+        "source": "G Zhang",
+        "target": "A Zhang",
+        "shared_papers": 2,
+        "paper_ids": [
+          "p094",
+          "p161"
+        ]
+      },
+      {
+        "source": "G Repovs",
+        "target": "DM Barch",
+        "shared_papers": 2,
+        "paper_ids": [
+          "p187",
+          "p182"
+        ]
+      },
+      {
+        "source": "O Sporns",
+        "target": "P Hagmann",
+        "shared_papers": 1,
+        "paper_ids": [
+          "p055"
+        ]
+      },
+      {
+        "source": "MP Van Den Heuvel",
+        "target": "A Fornito",
+        "shared_papers": 1,
+        "paper_ids": [
+          "p175"
+        ]
+      },
+      {
+        "source": "MP Van Den Heuvel",
+        "target": "A Griffa",
+        "shared_papers": 1,
+        "paper_ids": [
+          "p129"
+        ]
+      },
+      {
+        "source": "ME Raichle",
+        "target": "AZ Snyder\u2026",
+        "shared_papers": 1,
+        "paper_ids": [
+          "p025"
+        ]
+      },
+      {
+        "source": "P Hagmann",
+        "target": "A Griffa",
+        "shared_papers": 1,
+        "paper_ids": [
+          "p058"
+        ]
+      }
+    ]
+  },
+  "community_evolution": {
+    "0": {
+      "name": "Foundations & Graph Theory",
+      "papers_per_year": {
+        "2009": 3,
+        "2010": 2,
+        "2013": 4,
+        "2012": 5,
+        "2006": 1,
+        "2016": 6,
+        "1994": 1,
+        "2011": 8,
+        "2000": 2,
+        "1998": 2,
+        "2019": 1,
+        "2018": 2,
+        "2002": 1,
+        "1996": 1,
+        "2017": 2,
+        "1999": 1,
+        "2007": 2,
+        "2015": 1,
+        "2022": 1,
+        "2001": 1
+      }
+    },
+    "1": {
+      "name": "Resting-State fMRI & Default Mode",
+      "papers_per_year": {
+        "2001": 1,
+        "2010": 4,
+        "2007": 1,
+        "2003": 1,
+        "2009": 2,
+        "2012": 4,
+        "2016": 1,
+        "2014": 1,
+        "2008": 1,
+        "1997": 1,
+        "2017": 3,
+        "2004": 1,
+        "2011": 1,
+        "2013": 1,
+        "2022": 1
+      }
+    },
+    "2": {
+      "name": "Structural Connectivity & dMRI",
+      "papers_per_year": {
+        "2008": 2,
+        "2006": 1,
+        "2007": 1,
+        "2010": 3,
+        "2003": 1,
+        "2013": 1,
+        "2014": 2,
+        "2005": 1,
+        "2021": 1,
+        "2015": 3,
+        "2016": 2,
+        "2020": 2,
+        "2017": 2,
+        "2018": 1
+      }
+    },
+    "3": {
+      "name": "Dynamic FC & Brain States",
+      "papers_per_year": {
+        "2013": 1,
+        "2014": 3,
+        "2020": 3,
+        "2016": 3,
+        "2019": 4,
+        "2004": 1,
+        "2017": 1,
+        "2015": 2,
+        "2018": 5,
+        "2009": 1,
+        "2021": 1
+      }
+    },
+    "4": {
+      "name": "Clinical Applications",
+      "papers_per_year": {
+        "2015": 4,
+        "2004": 1,
+        "2010": 1,
+        "2012": 1,
+        "2014": 3,
+        "2018": 1,
+        "2019": 1,
+        "2013": 3,
+        "2011": 4,
+        "2021": 3,
+        "2020": 2,
+        "2017": 1
+      }
+    },
+    "5": {
+      "name": "Hubs, Rich-Club & Gradients",
+      "papers_per_year": {
+        "2015": 2,
+        "2011": 1,
+        "2014": 4,
+        "2013": 5,
+        "2009": 2,
+        "2018": 4,
+        "2012": 1,
+        "2020": 1,
+        "2007": 1,
+        "2022": 1,
+        "2017": 2,
+        "2016": 1
+      }
+    },
+    "6": {
+      "name": "Precision Mapping & Individual Differences",
+      "papers_per_year": {
+        "2015": 1,
+        "2017": 3,
+        "2018": 5,
+        "2019": 1,
+        "2012": 1,
+        "2020": 3,
+        "2021": 3,
+        "2024": 2,
+        "2023": 2,
+        "2022": 2,
+        "2025": 2
+      }
+    },
+    "7": {
+      "name": "Methods, Tools & Parcellations",
+      "papers_per_year": {
+        "2019": 4,
+        "2018": 3,
+        "2012": 1,
+        "2013": 2,
+        "2022": 2,
+        "2021": 3,
+        "2016": 1,
+        "2015": 1,
+        "2023": 4,
+        "2014": 1,
+        "2020": 2,
+        "2024": 1
+      }
+    },
+    "8": {
+      "name": "Recent Advances (arXiv)",
+      "papers_per_year": {
+        "2026": 15,
+        "2025": 4,
+        "2023": 2,
+        "2024": 3,
+        "2022": 1
+      }
+    }
+  }
+}
